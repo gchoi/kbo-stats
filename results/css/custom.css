@@ -1,0 +1,69 @@
+* { font-family:sans-serif; }
+body {
+  margin:0px; padding:0px;
+}
+#upper_div {
+  margin:0px;
+  padding:.5em;
+  color:white;
+  background-color:#222;
+  border-bottom:1px solid gray;
+}
+#upper_div table {
+  width:100%;
+  color:white;
+}
+.tool_logo {
+  height:2em;
+}
+.vidi_logo {
+  height:3em;
+}
+#lower_div {
+  margin:0px;
+  padding:.5em;
+}
+#lower_div table {
+  border:1px solid gray;
+  border-collapse:collapse;
+  display:inline-block;
+  vertical-align:top;
+  margin-right:1em;
+}
+#lower_div thead, #lower_div tfoot {
+  background-color:WhiteSmoke;
+}
+#lower_div table td, #lower_div table th {
+  text-align:right;
+  min-width:4em;
+  padding: 0 3 0 3;
+}
+div.stats img {
+  margin-right:1em;
+}
+div.view {
+  position:relative;
+  margin: 1px;
+  display: inline-block;
+}
+div.view img:nth-of-type(2) {
+  position:absolute; left: 0px; top: 0px;
+}
+div.view span {
+  font-size: 0.8em;
+  font-style: italic;
+  word-wrap: break-word;
+}
+#filter_div {
+  font-size: 0.8em;
+  font-style: italic;
+  word-wrap: break-word;
+}
+#div_howto {
+  display:none;
+}
+p.link {
+  font-size: 0.8em;
+  font-style: italic;
+  cursor: pointer;
+}
