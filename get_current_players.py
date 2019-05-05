@@ -20,7 +20,7 @@ def getPlayerIds():
     URL_LIST.append('file:///D:/Projects/Python/project-02/DataScience/Baseball/Source/kbo-stats/dataset/doosan-player-04.html')
     URL_LIST.append('file:///D:/Projects/Python/project-02/DataScience/Baseball/Source/kbo-stats/dataset/doosan-player-05.html')
     
-    ## HWANWHA
+    ## HANWHA
     URL_LIST.append('file:///D:/Projects/Python/project-02/DataScience/Baseball/Source/kbo-stats/dataset/hanwha-player-01.html')
     URL_LIST.append('file:///D:/Projects/Python/project-02/DataScience/Baseball/Source/kbo-stats/dataset/hanwha-player-02.html')
     URL_LIST.append('file:///D:/Projects/Python/project-02/DataScience/Baseball/Source/kbo-stats/dataset/hanwha-player-03.html')
